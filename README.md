@@ -8,6 +8,7 @@ The goal is to demonstrate strong SQL skills using operations like GROUP BY, UPD
 MySQL
 
 SQL Workbench / VS Code / Colab
+
 ### 📂 Project Overview
 
 This SQL project includes:
@@ -37,3 +38,23 @@ Generating insights using COUNT, SUM, AVG
 Analyzing trends and patterns
 
 Filtering specific records
+
+### ✔ SQL Features Used
+
+SELECT
+
+GROUP BY
+
+ORDER BY
+
+WHERE
+
+UPDATE
+
+CASE
+
+JOIN (optional)
+
+COUNT, SUM, AVG
+
+STR_TO_DATE() / date functions
