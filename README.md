@@ -72,3 +72,13 @@ High-value vs low-value records
 Cleanliness and consistency of the dataset
 
 Patterns in customer behavior
+
+### 🤝 Contributions
+
+New queries
+
+Joins
+
+Window functions
+
+Stored procedures
