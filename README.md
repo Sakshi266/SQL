@@ -58,3 +58,17 @@ JOIN (optional)
 COUNT, SUM, AVG
 
 STR_TO_DATE() / date functions
+
+### 📈 Insights You Can Derive
+
+With these SQL operations, you can understand:
+
+Category-wise distribution
+
+Trends using dates
+
+High-value vs low-value records
+
+Cleanliness and consistency of the dataset
+
+Patterns in customer behavior
